@@ -1,6 +1,6 @@
 ---
 
-# Playbook to install ELK 
+# Playbook to install elk 
 - hosts: localhost
   remote_user: ubuntu 
   become: yes
